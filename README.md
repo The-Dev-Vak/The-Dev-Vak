@@ -50,3 +50,4 @@ rather just watch me work, point me at a slow workflow.
 `11x aws certified` · `4x azure certified` · `aws security sme` · `mscs georgia tech` · `1 patent`
 
 [kaveha.com](https://kaveha.com) · [linkedin](https://www.linkedin.com/in/kvalemi/)
+
